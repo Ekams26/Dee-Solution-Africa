@@ -66,12 +66,6 @@ In the above example, we used the formatting option `,` to add comma separators 
 
 These are just a few methods of using the F-string.
 
-### Escaping Curly Braces
-
-If you need to include curly braces in your string literal, you can escape them by doubling them up. See example below:
-
-`print(f"{{Hello}}")`
-
 ### Resources
 
 For more information on F-strings, you can refer to the official Python documentation:
